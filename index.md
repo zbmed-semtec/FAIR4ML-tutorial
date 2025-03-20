@@ -21,8 +21,9 @@ This tutorial targets researchers across all domains working on Data Science and
 As we will work on good practices to care and share your own ML models, it would be good if you have one at hand (it does not have to be public, it can be still work in progress). Please bring your laptop.
 
 ## Agenda
+
 | Time | Topic |
-| ---- | ----------  |
+|:-------------|:------------------|
 | 10’  | Welcoming and brief introduction to NFDI4DataScience |
 | 30’  | Ice-breaker: Lost in a sea of ML models and related research artifacts? |
 |      |   How do you find datasets, software, ML models related to your research? |
