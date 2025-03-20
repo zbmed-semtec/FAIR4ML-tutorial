@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# FAIR4ML2025
-*A practical approach to documentation and metadata good practices for machine learning models*
+
+*Co-located with the [KI Conference](https://ki2025.gi.de/) on 16.Sep.2025 in Postdam, Germany*
 
 ## Description
 
