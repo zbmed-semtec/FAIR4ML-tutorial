@@ -36,12 +36,22 @@ As we will work on good practices to care and share your own ML models, it would
 
 ## Related tutorials
 
-* Ravinder, R., & Castro, L. J. (2025a, February 21). An introduction to Signposting—Easy navigation to FDO layers. [Tutorial] [https://doi.org/10.5281/zenodo.14882785](https://doi.org/10.5281/zenodo.14882785) 
-* Ravinder, R., & Castro, L. J. (2025b, February 21). An introduction to (webby) FAIR Digital Objects—A machine-actionable approach to FAIR. [https://doi.org/10.5281/zenodo.14882665](https://doi.org/10.5281/zenodo.14882665) 
-* Castro, L. J. (Director). (2024). Machine-actionable Software Management Plans (SMP)—Leyla Jael Castro @AIKG-SD 2024 [Video recording]. NFDI for Data Science and Artificial Intelligence, Leuphana Universität Lüneburg. [https://doi.org/10.5446/69660](https://doi.org/10.5446/69660) 
-* Kraft, A., Castro, L. J., Usbeck, R. (2024, September 03) Research Data Management in Data Science and AI — Avoiding a Replicability Crisis RDM4AI 2024. [Tutorial]. https://sites.google.com/view/rdm4ai-2024/ 
-* Castro, L. J. (2024a, February 7). Adding Bioschemas Dataset and ComputationalTool markup to GitHub pages [Tutorial]. [https://doi.org/10.5281/zenodo.10629453](https://doi.org/10.5281/zenodo.10629453) 
-* Castro, L. J. (2024b, September 19). Introduction and tutorial on Metadata and SMPs for FAIR research software. [Tutorial]. [https://doi.org/10.5281/zenodo.13799879](https://doi.org/10.5281/zenodo.13799879)
+* Ravinder, R., & Castro, L. J. (2025a, February 21).
+An introduction to Signposting—Easy navigation to FDO layers. [Tutorial] [https://doi.org/10.5281/zenodo.14882785](https://doi.org/10.5281/zenodo.14882785) 
+
+* Ravinder, R., & Castro, L. J. (2025b, February 21).
+An introduction to (webby) FAIR Digital Objects—A machine-actionable approach to FAIR. [https://doi.org/10.5281/zenodo.14882665](https://doi.org/10.5281/zenodo.14882665)
+
+* Castro, L. J. (Director). (2024).
+Machine-actionable Software Management Plans (SMP)—Leyla Jael Castro @AIKG-SD 2024 [Video recording]. NFDI for Data Science and Artificial Intelligence, Leuphana Universität Lüneburg. [https://doi.org/10.5446/69660](https://doi.org/10.5446/69660) 
+* Kraft, A., Castro, L. J., Usbeck, R. (2024, September 03)
+Research Data Management in Data Science and AI — Avoiding a Replicability Crisis RDM4AI 2024. [Tutorial]. https://sites.google.com/view/rdm4ai-2024/
+
+* Castro, L. J. (2024a, February 7).
+Adding Bioschemas Dataset and ComputationalTool markup to GitHub pages [Tutorial]. [https://doi.org/10.5281/zenodo.10629453](https://doi.org/10.5281/zenodo.10629453)
+
+* Castro, L. J. (2024b, September 19).
+Introduction and tutorial on Metadata and SMPs for FAIR research software. [Tutorial]. [https://doi.org/10.5281/zenodo.13799879](https://doi.org/10.5281/zenodo.13799879)
 
 ## Co-organizers
 
